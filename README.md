@@ -1,5 +1,5 @@
 ### received the Chugye University for the Arts with a Bachelor's degree in Korean traditional music in 2017, followed by a Master's degree in the same field. Additionally, he obtained a diploma in orchestra conducting from Scuola di Musica Il Trillo
-His primary research interest includes artificial intelligence, bigdata analytics, and natural language processing
+### His primary research interest includes artificial intelligence, bigdata analytics, and natural language processing
 
 #### [기술블로그]:https://blog.naver.com/ytu9222   👋
 
